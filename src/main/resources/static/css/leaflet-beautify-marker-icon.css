@@ -10,6 +10,9 @@
     font-family: monospace;
     position:absolute;
 }
+.test {
+    font-weight: 800;
+}
 
 .beautify-marker.circle {
     border-radius: 100%;
