@@ -126,7 +126,7 @@ objects:
           name: ${APP_NAME}:latest
       type: ImageChange
     - type: ConfigChange
-- apiVersion: v1
+- apiVersion: v2
   kind: Service
   metadata:
     labels:
